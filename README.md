@@ -1,6 +1,7 @@
 # Awesome Quiz Application
 
 This is a simple and interactive quiz application that allows users to test their knowledge on various topics. The application provides multiple-choice questions, tracks the user's score, and displays the results at the end.
+--> URL: https://amirsayab.github.io/TimerQuizApplication/
 
 ## Features
 
